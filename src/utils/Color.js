@@ -1,0 +1,15 @@
+export const colors = {
+  white: "#FFF",
+  black: "#000",
+  blue: "#53BEBE",
+  pink: "#FF5151",
+  orange: "#FFAA47",
+  kuning: "#FF9900",
+  violet: "#DB00FF",
+  warning: "#80FF00",
+  Secondary: "#074452",
+  red: "#892323",
+  brown: "#523407",
+  danger: "#072152",
+  unggu: "#310752",
+};
